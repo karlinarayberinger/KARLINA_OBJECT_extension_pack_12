@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 26_APRIL_2024
+ * date: 29_APRIL_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN
  */
@@ -51,3 +51,9 @@ https://phys.org/news/2024-04-universal-path-current-solids.amp
 On 26_APRIL_2024 at approximately 3:30AM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
 
 https://karbytesforlifeblog.wordpress.com/karbytes_27_april_2024/
+
+* * *
+
+On 29_APRIL_2024 at approximately 6:30PM Pacific Standard Time, karbytes shared the following news article as a social media post on karbytes' Twitter dot Com page and on karbytes' Minds dot Com page:
+
+https://arstechnica.com/science/2024/04/why-germany-ditched-nuclear-before-coal-and-why-it-wont-go-back/
