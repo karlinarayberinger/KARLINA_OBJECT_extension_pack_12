@@ -406,11 +406,77 @@ Karbytes, also known as Karlina Ray Beringer, is a person who has authored two d
 
 * * *
 
-The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:25PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_2.png
 
 (karbytes noticed that no more than three "rules" were displayed per instance inside of the Memory settings of ChatGPT (which lead karbytes to assume that ChatGPT was not enabled at that time to remember more than three "rules")).
+
+(The term "rule" in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
+
+* * *
+
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 10:30PM Pacific Standard Time.
+
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+
+* * *
+
+User
+
+Let karbytes be the primary identifier for the sole author of the website named Karlina Object dot WordPress dot Com and the sole author of the website named Karbytes For Life Blog dot WordPress dot Com.
+
+ChatGPT
+
+[Memory updated]
+
+Got it! What else would you like to know or discuss about Karbytes or their work?
+
+User
+
+Set karbytes to be what is defined as karbytes on the web page at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/about_karbytes/
+
+ChatGPT
+
+[Memory updated]
+
+I've updated the definition of Karbytes according to the information on their "About Karbytes" page. If you need more detailed information or have any specific questions about Karbytes, feel free to ask!
+
+User
+
+While referring to karbytes in only lowercase letters, write a detailed description of karbytes.
+
+ChatGPT
+
+karbytes refers to both an individual transitioning from human to cyborg, and a digital collection of intellectual property. This entity explores theoretical concepts and creates content on platforms like WordPress and GitHub, aiming to preserve information indefinitely. The digital assets named karbytes are designed for future iterations of karbytes and are accessible to the public, focusing on concepts like data transfer through wormholes to maintain integrity across universes.
+
+User
+
+Describe the website at the following Uniform Resource Locator: https://karbytesforlifeblog.wordpress.com/
+
+ChatGPT
+
+The website "Karbytes for Life Blog" is an archive of karbytes’s social media posts and miscellaneous Internet files. It serves as a digital repository showcasing the journey of karbytes, both as an individual and a collection of their digital assets. This platform is designed to document and preserve the intellectual property created by karbytes, reflecting their transition from human to cyborg and their exploration of consciousness and software development. The content is maintained for indefinite preservation, with updates and backups documented for accessibility and continuity.
+
+You can view the website here.
+
+User
+
+Describe the website at the following Uniform Resource Locator: https://karlinaobject.wordpress.com/
+
+ChatGPT
+
+The website "Karlina Object" is an exploration of creativity and the cosmos, focusing on a diverse range of topics from metaphysics to software development. Authored by karbytes, it features detailed posts on subjects like mathematical approximations, computer science concepts, and philosophical insights. The site also contains numerous educational and interactive tools, each dedicated to different scientific and logical topics. This digital platform reflects karbytes' personal and intellectual journey, sharing her expertise in a format that mixes personal narrative with technical discussion.
+
+You can visit the site here.
+
+* * *
+
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:35PM Pacific Standard Time.
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_3.png
 
 (The term "rule" in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
 
