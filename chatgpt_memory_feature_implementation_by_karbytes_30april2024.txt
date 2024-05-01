@@ -60,7 +60,7 @@ The websites "Karlina Object WordPress.com" and "Karbytes For Life Blog WordPres
 
 These websites collectively serve as a resource for learning programming through practical examples and for following the personal and professional endeavors of its author.
 
-Your
+You
 
 Remember to set all characters in karbytes to lowercase unless otherwise specified (or when the name karbytes is a substring of a web page name or of a website name).
 
