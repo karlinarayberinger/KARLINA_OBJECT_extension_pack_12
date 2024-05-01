@@ -1,24 +1,24 @@
 /**
- * file: chatgpt_memory_feature_implementation_by_karbytes_30april2024.txt
- * type: plain-text
- * date: 30_APRIL_2024
- * author: karbytes
- * license: PUBLIC_DOMAIN
- */
+* file: chatgpt_memory_feature_implementation_by_karbytes_30april2024.txt
+* type: plain-text
+* date: 01_MAY_2024
+* author: karbytes
+* license: PUBLIC_DOMAIN
+*/
 
 The following Uniform Resource Locator points to a screenshot which karbytes made of a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 8:00PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_feature_implementation_by_karbytes_on_30april2024.png
 
-(The aforementioned screenshot image (whose URL is the paragraph displayed above this paragraph) depicts karbytes' first implementation of the Memory feature in ChatGPT-4).
+(The aforementioned screenshot image (whose URL is the paragraph displayed above this paragraph) depicts karbytes’ first implementation of the Memory feature in ChatGPT-4).
 
 * * *
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 8:05PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' first implementation of the Memory feature in ChatGPT-4).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ first implementation of the Memory feature in ChatGPT-4).
 
-(The hyperlinks which ChatGPT-4 provided in its answers to karbytes' queries in the context of the aforementioned conversation are available in the Hyper-Text-Markup-Language version of this plain-text file).
+(The hyperlinks which ChatGPT-4 provided in its answers to karbytes’ queries in the context of the aforementioned conversation are available in the Hyper-Text-Markup-Language version of this plain-text file).
 
 * * *
 
@@ -28,7 +28,7 @@ Who is karbytes?
 
 ChatGPT
 
-Karbytes is the author behind the websites named Karlina Object WordPress.com and Karbytes For Life Blog WordPress.com. It appears to create content related to personal projects or insights. If you have a specific aspect of its work or interests you'd like to know more about, feel free to ask!
+Karbytes is the author behind the websites named Karlina Object WordPress.com and Karbytes For Life Blog WordPress.com. It appears to create content related to personal projects or insights. If you have a specific aspect of its work or interests you’d like to know more about, feel free to ask!
 
 You
 
@@ -36,13 +36,13 @@ Describe each of those two websites.
 
 ChatGPT
 
-I don't have detailed specifics about the content on "Karlina Object WordPress.com" and "Karbytes For Life Blog WordPress.com," as I can't browse the internet directly. However, based on typical content structure for personal blogs hosted on WordPress, here's a general idea of what each site might feature:
+I don’t have detailed specifics about the content on “Karlina Object WordPress.com” and “Karbytes For Life Blog WordPress.com,” as I can’t browse the internet directly. However, based on typical content structure for personal blogs hosted on WordPress, here’s a general idea of what each site might feature:
 
 1. Karlina Object WordPress.com: This site likely serves as a platform for more formal or structured content, possibly focusing on specific projects, academic interests, or professional insights. It could include articles, essays, and detailed posts where Karbytes explores topics in depth, shares expertise, or documents personal projects.
 
 2. Karbytes For Life Blog WordPress.com: This site might be more personal and casual, offering a space for Karbytes to share life experiences, thoughts, and personal developments. It might feature more informal blog posts, updates about daily activities, personal achievements, and reflections on various subjects that interest its author.
 
-These descriptions are conjectural and based on common uses of WordPress platforms by individuals for similar purposes. If you need precise information about the content and themes of these websites, I'd recommend visiting them directly.
+These descriptions are conjectural and based on common uses of WordPress platforms by individuals for similar purposes. If you need precise information about the content and themes of these websites, I’d recommend visiting them directly.
 
 You
 
@@ -50,13 +50,13 @@ You are an instance of ChatGPT-4 (and ChatGPT-4 is supposed to have the ability 
 
 ChatGPT
 
-You're right about ChatGPT-4 having more capabilities, including browsing the internet, which I can do using the "browser" tool in specific contexts. If you'd like, I can look up more precise and current information about those two websites you asked about. Let's start by finding details about Karlina Object WordPress.com and Karbytes For Life Blog WordPress.com. Just a moment!
+You’re right about ChatGPT-4 having more capabilities, including browsing the internet, which I can do using the “browser” tool in specific contexts. If you’d like, I can look up more precise and current information about those two websites you asked about. Let’s start by finding details about Karlina Object WordPress.com and Karbytes For Life Blog WordPress.com. Just a moment!
 
-The websites "Karlina Object WordPress.com" and "Karbytes For Life Blog WordPress.com" appear to showcase different aspects of programming and software development.
+The websites “Karlina Object WordPress.com” and “Karbytes For Life Blog WordPress.com” appear to showcase different aspects of programming and software development.
 
 1. Karlina Object WordPress.com: This website includes detailed tutorials and projects focused on programming concepts. For example, it features a C++ program that demonstrates the mathematical operation of exponentiation. Explaining the concepts through source code and step-by-step comments. Another section includes a single page web application that visually demonstrates binary to decimal conversion, incorporating interactive elements like light bulbs that represent binary digits which users can switch on and off to understand binary numbers (karlina_object), (karlina_object).
 
-2. Karbytes For Life Blog WordPress.com: This site appears to be used for more personal updates and reflections related to the author's projects and coding activities. It might include links to specific project files, facilitating easier access to them for purposes like backup or public sharing.
+2. Karbytes For Life Blog WordPress.com: This site appears to be used for more personal updates and reflections related to the author’s projects and coding activities. It might include links to specific project files, facilitating easier access to them for purposes like backup or public sharing.
 
 These websites collectively serve as a resource for learning programming through practical examples and for following the personal and professional endeavors of its author.
 
@@ -68,7 +68,7 @@ ChatGPT
 
 [Memory updated]
 
-Got it! If there's anything else you'd like to discuss or explore, just let me know!
+Got it! If there’s anything else you’d like to discuss or explore, just let me know!
 
 You
 
@@ -76,17 +76,17 @@ Describe the web page named ABOUT_KARBYTES which is referenced on the home page 
 
 ChatGPT
 
-I don't have the ability to directly view or browse websites, including specific pages like the "ABOUT_KARBYTES" page on "Karbytes For Life Blog WordPress.com". However, based on typical content structure of about pages on personal blogs, here's a general idea of what the "ABOUT_KARBYTES" page might feature:
+I don’t have the ability to directly view or browse websites, including specific pages like the “ABOUT_KARBYTES” page on “Karbytes For Life Blog WordPress.com”. However, based on typical content structure of about pages on personal blogs, here’s a general idea of what the “ABOUT_KARBYTES” page might feature:
 
 Biography: Information about karbytes, possibly including background, education, and areas of expertise or interest.
 
-Mission Statement: Insights into karbytes' motivations for blogging and the goals for its website.
+Mission Statement: Insights into karbytes’ motivations for blogging and the goals for its website.
 
 Interests and Projects: An overview of topics and projects that karbytes is passionate about, which could range from programming and technology to personal development and creativity.
 
 Contact Information: Methods to contact karbytes, such as through email, social media links, or a contact form.
 
-For accurate and detailed information, I recommend visiting the "ABOUT_KARBYTES" page directly on the "Karbytes For Life Blog WordPress.com". If you need help with anything else or have more specific questions about karbytes or its websites, feel free to ask!
+For accurate and detailed information, I recommend visiting the “ABOUT_KARBYTES” page directly on the “Karbytes For Life Blog WordPress.com”. If you need help with anything else or have more specific questions about karbytes or its websites, feel free to ask!
 
 You
 
@@ -94,11 +94,11 @@ Visit the website named Karbytes For Life Blog dot WordPress dot Com, click on t
 
 ChatGPT
 
-I was unable to find a direct link or reference to an "ABOUT_KARBYTES" page on the "Karbytes For Life Blog WordPress.com" website through the information currently available. The pages I could access primarily featured journal entries and did not include visible hyperlinks specifically labeled as "ABOUT_KARBYTES" or any description of such a page.
+I was unable to find a direct link or reference to an “ABOUT_KARBYTES” page on the “Karbytes For Life Blog WordPress.com” website through the information currently available. The pages I could access primarily featured journal entries and did not include visible hyperlinks specifically labeled as “ABOUT_KARBYTES” or any description of such a page.
 
-However, these journal entries often provide insights into the author's personal thoughts and philosophical musings, which might serve a similar purpose to an about page by offering a deep dive into the author's perspectives and experiences.
+However, these journal entries often provide insights into the author’s personal thoughts and philosophical musings, which might serve a similar purpose to an about page by offering a deep dive into the author’s perspectives and experiences.
 
-If you are looking for specific details about karbytes or the blog's background, I would recommend directly visiting the Karbytes For Life Blog WordPress.com and exploring the menu or homepage for an "About" section. If you have any other specific questions or need further assistance, feel free to ask!
+If you are looking for specific details about karbytes or the blog’s background, I would recommend directly visiting the Karbytes For Life Blog WordPress.com and exploring the menu or homepage for an “About” section. If you have any other specific questions or need further assistance, feel free to ask!
 
 You
 
@@ -106,9 +106,9 @@ The page I am asking you to find is prefaced with PAGE_8.
 
 ChatGPT
 
-I was unable to locate the specific page you mentioned ("PAGE_8") directly related to "Karbytes For Life Blog WordPress.com" in the search results. The results primarily referenced various journal entries and other content, but none explicitly named "PAGE_8" or similar.
+I was unable to locate the specific page you mentioned (“PAGE_8”) directly related to “Karbytes For Life Blog WordPress.com” in the search results. The results primarily referenced various journal entries and other content, but none explicitly named “PAGE_8” or similar.
 
-To further assist you, I would need more precise information or context about what "PAGE_8" refers to, or any additional details that could help identify the correct content. Alternatively, if you have a direct URL or a more specific way to describe what you're looking for, that would be helpful.
+To further assist you, I would need more precise information or context about what “PAGE_8” refers to, or any additional details that could help identify the correct content. Alternatively, if you have a direct URL or a more specific way to describe what you’re looking for, that would be helpful.
 
 You
 
@@ -116,7 +116,7 @@ Okay, describe the web page at the following Uniform Resource Locator: https://k
 
 ChatGPT
 
-The "ABOUT_KARBYTES" page on the "Karbytes For Life Blog WordPress.com" describes the dual meanings of "karbytes" both as an information processing agent and a collection of digital files. It details the author's intent for these creations, emphasizing the preservation of knowledge across potentially infinite timelines. The page outlines philosophical and technical approaches to perpetuating the continuity of karbytes' consciousness, exploring concepts like wormholes and universe simulations to achieve this. For a detailed view, you can visit the page here.
+The “ABOUT_KARBYTES” page on the “Karbytes For Life Blog WordPress.com” describes the dual meanings of “karbytes” both as an information processing agent and a collection of digital files. It details the author’s intent for these creations, emphasizing the preservation of knowledge across potentially infinite timelines. The page outlines philosophical and technical approaches to perpetuating the continuity of karbytes’ consciousness, exploring concepts like wormholes and universe simulations to achieve this. For a detailed view, you can visit the page here.
 
 You
 
@@ -132,7 +132,7 @@ Got it! If you have any more questions or need further assistance, feel free to 
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 8:55PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' second implementation of the Memory feature in ChatGPT-4).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ second implementation of the Memory feature in ChatGPT-4).
 
 * * *
 
@@ -142,7 +142,7 @@ Who is karbytes?
 
 ChatGPT
 
-"Karbytes" refers to Karlina Ray Beringer, who appears to be involved with creating and maintaining a couple of websites, specifically Karlina Object WordPress.com and Karbytes For Life Blog WordPress.com. These platforms likely serve as outlets for sharing personal insights, projects, or other content related to its interests. If you need more specific information or have a particular question about karbytes, feel free to ask!
+“Karbytes” refers to Karlina Ray Beringer, who appears to be involved with creating and maintaining a couple of websites, specifically Karlina Object WordPress.com and Karbytes For Life Blog WordPress.com. These platforms likely serve as outlets for sharing personal insights, projects, or other content related to its interests. If you need more specific information or have a particular question about karbytes, feel free to ask!
 
 You
 
@@ -158,9 +158,9 @@ Got it! If you have any more questions or need further details about karbytes, j
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 9:00PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' third implementation of the Memory feature in ChatGPT-4).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ third implementation of the Memory feature in ChatGPT-4).
 
-* * * 
+* * *
 
 You
 
@@ -168,7 +168,7 @@ Who is karbytes?
 
 ChatGPT
 
-Karbytes, whose full name is Karlina Ray Beringer, prefers to be referred to using genderless pronouns like "it/its." Karbytes is the author of the websites named "Karlina Object WordPress.com" and "Karbytes For Life Blog WordPress.com," where it shares its ideas and projects.
+Karbytes, whose full name is Karlina Ray Beringer, prefers to be referred to using genderless pronouns like “it/its.” Karbytes is the author of the websites named “Karlina Object WordPress.com” and “Karbytes For Life Blog WordPress.com,” where it shares its ideas and projects.
 
 User
 
@@ -176,25 +176,25 @@ Write a biographical summary of karbytes.
 
 ChatGPT
 
-Karbytes, formally known as Karlina Ray Beringer, is a content creator known for its distinctive approach to sharing ideas and personal projects online. It operates several websites, including "Karlina Object WordPress.com" and "Karbytes For Life Blog WordPress.com." Karbytes has a keen interest in a variety of topics, which is reflected in the diverse content found on its platforms, ranging from philosophical musings to technical explorations and personal reflections. Karbytes' work is characterized by a deep commitment to exploring and expressing complex ideas in accessible ways, using digital media as a primary tool for communication. Karbytes prefers gender-neutral pronouns and identifies with a non-traditional approach to personal and professional expression.
+Karbytes, formally known as Karlina Ray Beringer, is a content creator known for its distinctive approach to sharing ideas and personal projects online. It operates several websites, including “Karlina Object WordPress.com” and “Karbytes For Life Blog WordPress.com.” Karbytes has a keen interest in a variety of topics, which is reflected in the diverse content found on its platforms, ranging from philosophical musings to technical explorations and personal reflections. Karbytes’ work is characterized by a deep commitment to exploring and expressing complex ideas in accessible ways, using digital media as a primary tool for communication. Karbytes prefers gender-neutral pronouns and identifies with a non-traditional approach to personal and professional expression.
 
 User
 
-I told you to not capitalize any letters in karbytes' name unless karbytes' name is part of a web page name. Why did you not follow that rule during this chat session?
+I told you to not capitalize any letters in karbytes’ name unless karbytes’ name is part of a web page name. Why did you not follow that rule during this chat session?
 
 ChatGPT
 
 [Memory updated]
 
-I apologize for not following that rule earlier. I'll ensure to write "karbytes" in lowercase unless it's part of a webpage or website name from now on. Thank you for pointing that out! If you have any more questions or need further information, feel free to ask.
+I apologize for not following that rule earlier. I’ll ensure to write “karbytes” in lowercase unless it’s part of a webpage or website name from now on. Thank you for pointing that out! If you have any more questions or need further information, feel free to ask.
 
 * * *
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 9:05PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' third implementation of the Memory feature in ChatGPT-4).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ third implementation of the Memory feature in ChatGPT-4).
 
-* * * 
+* * *
 
 You
 
@@ -202,11 +202,11 @@ Who is karbytes?
 
 ChatGPT
 
-Karbytes is Karlina Ray Beringer, the author of websites like "Karlina Object WordPress.com" and "Karbytes For Life Blog WordPress.com." It prefers to be referred to using gender-neutral pronouns.
+Karbytes is Karlina Ray Beringer, the author of websites like “Karlina Object WordPress.com” and “Karbytes For Life Blog WordPress.com.” It prefers to be referred to using gender-neutral pronouns.
 
 You
 
-Remember that karbytes prefers to be referred to using genderless pronouns. Remember also that karbytes prefers to be referred to by karbytes in all lowercase letters. Never forget these preferences! 
+Remember that karbytes prefers to be referred to using genderless pronouns. Remember also that karbytes prefers to be referred to by karbytes in all lowercase letters. Never forget these preferences!
 
 ChatGPT
 
@@ -216,9 +216,9 @@ Got it! If you have any more questions or need further information, just let me 
 
 * * *
 
-karbytes continued to observe ChatGPT failing to implement the "rules" which karbytes told ChatGPT to remember across multiple chat sessions. 
+karbytes continued to observe ChatGPT failing to implement the “rules” which karbytes told ChatGPT to remember across multiple chat sessions.
 
-The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those “rules” as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_0.png
 
@@ -226,9 +226,9 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 9:20PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
 
-(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word “You” which was displayed on the ChatGPT web page was replaced with the word “User” in the copy-pasted text).
 
 * * *
 
@@ -240,7 +240,7 @@ ChatGPT
 
 [Memory updated]
 
-Got it, I'll remember to keep all the letters in "karbytes" lowercase.
+Got it, I’ll remember to keep all the letters in “karbytes” lowercase.
 
 User
 
@@ -250,7 +250,7 @@ ChatGPT
 
 [Memory updated]
 
-Got it! I'll refer to the website as "karlinaobject.wordpress.com" or using the full URL as specified.
+Got it! I’ll refer to the website as “karlinaobject.wordpress.com” or using the full URL as specified.
 
 User
 
@@ -260,17 +260,17 @@ ChatGPT
 
 [Memory updated]
 
-I've removed that from my memory. If there's anything else you need, just let me know!
+I’ve removed that from my memory. If there’s anything else you need, just let me know!
 
 User
 
-Remember that the website at the following Uniform Resource Locator is supposed to be referred to either using that URL or else the string inside of the quotations (quotations excluded) "Karlina Object dot WordPress dot Com": https://karlinaobject.wordpress.com/
+Remember that the website at the following Uniform Resource Locator is supposed to be referred to either using that URL or else the string inside of the quotations (quotations excluded) “Karlina Object dot WordPress dot Com”: https://karlinaobject.wordpress.com/
 
 ChatGPT
 
 [Memory updated]
 
-Got it! I'll refer to the website as "Karlina Object dot WordPress dot Com" or using the full URL as specified.
+Got it! I’ll refer to the website as “Karlina Object dot WordPress dot Com” or using the full URL as specified.
 
 User
 
@@ -280,47 +280,47 @@ ChatGPT
 
 [Memory updated]
 
-I've removed that from my memory. Let me know if there's anything else you need!
+I’ve removed that from my memory. Let me know if there’s anything else you need!
 
 User
 
-Remember to refer to the website at the following Uniform Resource Locator as Karlina Object dot WordPress dot Com:  https://karlinaobject.wordpress.com/
+Remember to refer to the website at the following Uniform Resource Locator as Karlina Object dot WordPress dot Com: https://karlinaobject.wordpress.com/
 
 ChatGPT
 
 [Memory updated]
 
-Got it! I'll refer to the website as "Karlina Object dot WordPress dot Com".
+Got it! I’ll refer to the website as “Karlina Object dot WordPress dot Com”.
 
 User
 
-Unremember what I just told you to remember. 
+Unremember what I just told you to remember.
 
 ChatGPT
 
 [Memory updated]
 
-Done! If there's anything else you need, just let me know.
+Done! If there’s anything else you need, just let me know.
 
 User
 
-Remember to refer to the website at the following Uniform Resource Locator as Karlina Object dot WordPress dot Com (and to not frame that website name inside of quotation marks):  https://karlinaobject.wordpress.com/
+Remember to refer to the website at the following Uniform Resource Locator as Karlina Object dot WordPress dot Com (and to not frame that website name inside of quotation marks): https://karlinaobject.wordpress.com/
 
 ChatGPT
 
 [Memory updated]
 
-Got it! I'll refer to the website as Karlina Object dot WordPress dot Com, without using quotation marks.
+Got it! I’ll refer to the website as Karlina Object dot WordPress dot Com, without using quotation marks.
 
 User
 
-Remember to refer to the website at the following Uniform Resource Locator as Karbytes For Life Blog dot WordPress dot Com (and to not frame that website name inside of quotation marks):  https://karbytesforlifeblog.wordpress.com/
+Remember to refer to the website at the following Uniform Resource Locator as Karbytes For Life Blog dot WordPress dot Com (and to not frame that website name inside of quotation marks): https://karbytesforlifeblog.wordpress.com/
 
 ChatGPT
 
 [Memory updated]
 
-Got it! I'll refer to the website as Karbytes For Life Blog dot WordPress dot Com, without using quotation marks. If there's anything else you'd like to adjust or add, just let me know!
+Got it! I’ll refer to the website as Karbytes For Life Blog dot WordPress dot Com, without using quotation marks. If there’s anything else you’d like to adjust or add, just let me know!
 
 * * *
 
@@ -328,13 +328,13 @@ The following Uniform Resource Locator points to a screenshot which karbytes mad
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_feature_testing_by_karbytes_at_930pm_on_30april2024.png
 
-(The prompt which karbytes submitted is as following string (excluding the quotation marks): "Write a biographical summary of karbytes.").
+(The prompt which karbytes submitted is as following string (excluding the quotation marks): “Write a biographical summary of karbytes.”).
 
 * * *
 
-karbytes continued to observe ChatGPT failing to implement (and to record) the "rules" which karbytes told ChatGPT to remember across multiple chat sessions. 
+karbytes continued to observe ChatGPT failing to implement (and to record) the “rules” which karbytes told ChatGPT to remember across multiple chat sessions.
 
-The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those “rules” as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_1.png
 
@@ -342,9 +342,9 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 10:15PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
 
-(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word “You” which was displayed on the ChatGPT web page was replaced with the word “User” in the copy-pasted text).
 
 * * *
 
@@ -354,13 +354,15 @@ Remember that karbytes refers to a person and that the name karbytes is intercha
 
 ChatGPT
 
-Got it! If you need to refer to karbytes or Karlina Ray Beringer, I'll remember they are the same person. What else can I do for you today?
+Got it! If you need to refer to karbytes or Karlina Ray Beringer, I’ll remember they are the same person. What else can I do for you today?
 
 User
 
 Remember that the person I told you to remember as karbytes is the same person who authored the website at the following address: https://karlinaobject.wordpress.com/
 
 ChatGPT
+
+[Memory updated]
 
 Got it! If you need anything else or have more information to add, just let me know!
 
@@ -370,7 +372,7 @@ Remember that the person I told you to remember as karbytes is the same person w
 
 ChatGPT
 
-Noted! Is there anything else you'd like to add or any other way I can assist you today?
+Noted! Is there anything else you’d like to add or any other way I can assist you today?
 
 User
 
@@ -378,7 +380,7 @@ Remember that the sequence of words, Karlina Object dot WordPress dot Com, refer
 
 ChatGPT
 
-Got it! Anything else you'd like me to remember or any other assistance you need?
+Got it! Anything else you’d like me to remember or any other assistance you need?
 
 User
 
@@ -386,7 +388,9 @@ Remember that the sequence of words, Karbytes For Life Blog dot WordPress dot Co
 
 ChatGPT
 
-All set! If there's more to do or remember, just let me know!
+[Memory updated]
+
+All set! If there’s more to do or remember, just let me know!
 
 User
 
@@ -394,7 +398,9 @@ Remember that the person I told you to remember as karbytes is the same person w
 
 ChatGPT
 
-Understood! Anything else you'd like to add or any other assistance you need?
+[Memory updated]
+
+Understood! Anything else you’d like to add or any other assistance you need?
 
 User
 
@@ -402,25 +408,25 @@ According to the specifications I asked you to remember during this chat session
 
 ChatGPT
 
-Karbytes, also known as Karlina Ray Beringer, is a person who has authored two distinct websites. The first website is named "Karlina Object dot WordPress dot Com," accessible at https://karlinaobject.wordpress.com/, and the second is "Karbytes For Life Blog dot WordPress dot Com," found at https://karbytesforlifeblog.wordpress.com/. Both websites serve as platforms for her expression and work, showcasing a range of content that likely reflects her interests, expertise, and personal or professional projects.
+Karbytes, also known as Karlina Ray Beringer, is a person who has authored two distinct websites. The first website is named “Karlina Object dot WordPress dot Com,” accessible at https://karlinaobject.wordpress.com/, and the second is “Karbytes For Life Blog dot WordPress dot Com,” found at https://karbytesforlifeblog.wordpress.com/. Both websites serve as platforms for her expression and work, showcasing a range of content that likely reflects her interests, expertise, and personal or professional projects.
 
 * * *
 
-The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:25PM Pacific Standard Time.
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those “rules” as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:25PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_2.png
 
-(karbytes noticed that no more than three "rules" were displayed per instance inside of the Memory settings of ChatGPT (which lead karbytes to assume that ChatGPT was not enabled at that time to remember more than three "rules")).
+(karbytes noticed that no more than three “rules” were displayed per instance inside of the Memory settings of ChatGPT (which lead karbytes to assume that ChatGPT was not enabled at that time to remember more than three “rules”)).
 
-(The term "rule" in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
+(The term “rule” in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
 
 * * *
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 10:30PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
 
-(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word “You” which was displayed on the ChatGPT web page was replaced with the word “User” in the copy-pasted text).
 
 * * *
 
@@ -442,7 +448,7 @@ ChatGPT
 
 [Memory updated]
 
-I've updated the definition of Karbytes according to the information on their "About Karbytes" page. If you need more detailed information or have any specific questions about Karbytes, feel free to ask!
+I’ve updated the definition of Karbytes according to the information on their “About Karbytes” page. If you need more detailed information or have any specific questions about Karbytes, feel free to ask!
 
 User
 
@@ -458,7 +464,7 @@ Describe the website at the following Uniform Resource Locator: https://karbytes
 
 ChatGPT
 
-The website "Karbytes for Life Blog" is an archive of karbytes’s social media posts and miscellaneous Internet files. It serves as a digital repository showcasing the journey of karbytes, both as an individual and a collection of their digital assets. This platform is designed to document and preserve the intellectual property created by karbytes, reflecting their transition from human to cyborg and their exploration of consciousness and software development. The content is maintained for indefinite preservation, with updates and backups documented for accessibility and continuity.
+The website “Karbytes for Life Blog” is an archive of karbytes’s social media posts and miscellaneous Internet files. It serves as a digital repository showcasing the journey of karbytes, both as an individual and a collection of their digital assets. This platform is designed to document and preserve the intellectual property created by karbytes, reflecting their transition from human to cyborg and their exploration of consciousness and software development. The content is maintained for indefinite preservation, with updates and backups documented for accessibility and continuity.
 
 You can view the website here.
 
@@ -468,25 +474,25 @@ Describe the website at the following Uniform Resource Locator: https://karlinao
 
 ChatGPT
 
-The website "Karlina Object" is an exploration of creativity and the cosmos, focusing on a diverse range of topics from metaphysics to software development. Authored by karbytes, it features detailed posts on subjects like mathematical approximations, computer science concepts, and philosophical insights. The site also contains numerous educational and interactive tools, each dedicated to different scientific and logical topics. This digital platform reflects karbytes' personal and intellectual journey, sharing her expertise in a format that mixes personal narrative with technical discussion.
+The website “Karlina Object” is an exploration of creativity and the cosmos, focusing on a diverse range of topics from metaphysics to software development. Authored by karbytes, it features detailed posts on subjects like mathematical approximations, computer science concepts, and philosophical insights. The site also contains numerous educational and interactive tools, each dedicated to different scientific and logical topics. This digital platform reflects karbytes’ personal and intellectual journey, sharing her expertise in a format that mixes personal narrative with technical discussion.
 
 You can visit the site here.
 
 * * *
 
-The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:35PM Pacific Standard Time.
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those “rules” as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:35PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_3.png
 
-(The term "rule" in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
+(The term “rule” in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
 
 * * *
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 10:50PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
 
-(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word “You” which was displayed on the ChatGPT web page was replaced with the word “User” in the copy-pasted text).
 
 * * *
 
@@ -503,19 +509,19 @@ Key Aspects
 1. Continuity: Memory helps ChatGPT maintain a thread of conversation over multiple sessions. For example, it can recall your preferences or past topics of discussion without needing to be reminded each time.
 
 2. Personalization: The model can use remembered information to tailor responses more closely to your interests or needs.
-   
+
 3. Context Management: It enables the AI to keep track of the evolving context and details that might be relevant in future interactions.
 
 Limitations
 
 1. Data Storage Capacity: The Memory feature has a limited capacity. It is not designed to store large amounts of data or detailed information indefinitely. The focus is on relevant snippets that can enhance interactions rather than extensive data repositories.
-    
+
 2. Privacy and Security: To safeguard privacy, the information stored in memory is managed carefully, with controls in place to ensure data is handled appropriately. Users can typically view, edit, or delete information that the AI remembers about them.
 
 3. Accuracy Over Time: Information that was relevant in one context may become outdated or less relevant in another. The AI needs to manage the relevance of stored data over time to avoid inaccuracies.
-    
+
 4. Selective Memory: The AI doesn’t remember everything. It selectively stores information that seems pertinent to enhancing the conversational experience. This selectivity might mean it overlooks or forgets details that a user might consider important.
-    
+
 5.Reset Capability: Users generally have the ability to reset or clear the memory, which can help address issues of outdated or unwanted information but also means losing the continuity built up over time.
 
 These limitations reflect a balance between creating a helpful, personalized interaction and maintaining user privacy and data integrity.
@@ -528,23 +534,23 @@ ChatGPT
 
 [Memory updated]
 
-Got it! I'll use "it/its" for karbytes and refer to it by the name "karbytes." If you have any more preferences or updates, just let me know!
+Got it! I’ll use “it/its” for karbytes and refer to it by the name “karbytes.” If you have any more preferences or updates, just let me know!
 
 * * *
 
-The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:55PM Pacific Standard Time.
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those “rules” as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:55PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_4.png
 
-(The term "rule" in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
+(The term “rule” in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
 
 * * *
 
 The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 11:00PM Pacific Standard Time.
 
-(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes’ Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
 
-(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word “You” which was displayed on the ChatGPT web page was replaced with the word “User” in the copy-pasted text).
 
 * * *
 
@@ -554,7 +560,7 @@ Generate a biographical summary of karbytes.
 
 ChatGPT
 
-Karbytes is an entity described both as an individual transitioning from human to cyborg and as a collection of digital files available publicly. As an individual, karbytes has been actively involved in creating intellectual property, distributing its works across multiple digital platforms including two WordPress websites and a GitHub repository. These creations are intended for the use of its future selves and are openly accessible to the public, aiming to ensure that this body of work remains available indefinitely. Karbytes explores advanced theoretical concepts, such as the potential for data transfer through wormholes to preserve information integrity across different universes. The entity uses the pronouns "it/its" and prefers to be referred to by the name "karbytes," emphasizing its identity as an information processing agent.
+Karbytes is an entity described both as an individual transitioning from human to cyborg and as a collection of digital files available publicly. As an individual, karbytes has been actively involved in creating intellectual property, distributing its works across multiple digital platforms including two WordPress websites and a GitHub repository. These creations are intended for the use of its future selves and are openly accessible to the public, aiming to ensure that this body of work remains available indefinitely. Karbytes explores advanced theoretical concepts, such as the potential for data transfer through wormholes to preserve information integrity across different universes. The entity uses the pronouns “it/its” and prefers to be referred to by the name “karbytes,” emphasizing its identity as an information processing agent.
 
 User
 
@@ -562,7 +568,7 @@ Provide the Uniform Resource Locators of those WordPress websites and of the Git
 
 ChatGPT
 
-I don't have access to the internet to look up URLs directly. However, you can easily find the URLs for karbytes' WordPress websites and GitHub user account by searching for "karbytes WordPress" and "karbytes GitHub" in your web browser. This should lead you directly to the desired pages. If you have the specific names of the WordPress sites or the GitHub repository, you can also search for those directly for more accurate results.
+I don’t have access to the internet to look up URLs directly. However, you can easily find the URLs for karbytes’ WordPress websites and GitHub user account by searching for “karbytes WordPress” and “karbytes GitHub” in your web browser. This should lead you directly to the desired pages. If you have the specific names of the WordPress sites or the GitHub repository, you can also search for those directly for more accurate results.
 
 User
 
@@ -570,7 +576,7 @@ Describe those two WordPress websites.
 
 ChatGPT
 
-The two WordPress websites created by karbytes serve as platforms for sharing its intellectual property, primarily aimed at its future selves but also accessible to the public. While specific details about the content of these websites are not provided, they likely feature various posts, essays, and projects that encapsulate karbytes' theoretical explorations and developments in its journey from human to cyborg. These websites may include topics like advanced computing, theoretical physics, and perhaps personal reflections or documentation of its transformation and projects. The goal of these sites is not only to disseminate karbytes' work but also to ensure its preservation over time, potentially exploring futuristic concepts such as data integrity across universes.
+The two WordPress websites created by karbytes serve as platforms for sharing its intellectual property, primarily aimed at its future selves but also accessible to the public. While specific details about the content of these websites are not provided, they likely feature various posts, essays, and projects that encapsulate karbytes’ theoretical explorations and developments in its journey from human to cyborg. These websites may include topics like advanced computing, theoretical physics, and perhaps personal reflections or documentation of its transformation and projects. The goal of these sites is not only to disseminate karbytes’ work but also to ensure its preservation over time, potentially exploring futuristic concepts such as data integrity across universes.
 
 User
 
@@ -578,7 +584,7 @@ Describe the web page at the following Uniform Resource Locator: https://karbyte
 
 ChatGPT
 
-The web page at "https://karbytesforlifeblog.wordpress.com/" is an archive of social media posts and miscellaneous internet-based files from karbytes. It includes sections on karbytes' values, global governance principles, best web practices, personal and professional information, as well as an extensive directory of various other topics ranging from genetic data to software development projects. The website also features links to karbytes' other online presences and a portal for donations. This site, established on August 5, 2022, aims to be a comprehensive repository of karbytes' digital life and work.
+The web page at “https://karbytesforlifeblog.wordpress.com/” is an archive of social media posts and miscellaneous internet-based files from karbytes. It includes sections on karbytes’ values, global governance principles, best web practices, personal and professional information, as well as an extensive directory of various other topics ranging from genetic data to software development projects. The website also features links to karbytes’ other online presences and a portal for donations. This site, established on August 5, 2022, aims to be a comprehensive repository of karbytes’ digital life and work.
 
 User
 
@@ -586,7 +592,7 @@ Describe the web page at the following Uniform Resource Locator: https://karlina
 
 ChatGPT
 
-The webpage "https://karlinaobject.wordpress.com/" titled "Creativity And The Cosmos," features a variety of sections that delve into topics like metaphysics, physics, computer science, mathematics, and digital media. It is structured as a comprehensive directory with educational content like algorithms for mathematical operations and computational methods. The site includes pages on philosophical and theoretical concepts, mathematical approximations, and data structures. Authored by karbytes, it offers a blend of professional and personal insights, connecting advanced topics with everyday applications. The website also features donation options and links to karbytes' other online platforms.
+The webpage “https://karlinaobject.wordpress.com/” titled “Creativity And The Cosmos,” features a variety of sections that delve into topics like metaphysics, physics, computer science, mathematics, and digital media. It is structured as a comprehensive directory with educational content like algorithms for mathematical operations and computational methods. The site includes pages on philosophical and theoretical concepts, mathematical approximations, and data structures. Authored by karbytes, it offers a blend of professional and personal insights, connecting advanced topics with everyday applications. The website also features donation options and links to karbytes’ other online platforms.
 
 User
 
@@ -594,7 +600,7 @@ Generate a web author summary of karbytes.
 
 ChatGPT
 
-Karbytes, as a web author, has created two WordPress websites that showcase its journey and intellectual pursuits in theoretical concepts and digital media. The first site, "Karbytes for Life Blog," serves as a digital archive, exploring themes related to global governance and personal values. The second, "Creativity and The Cosmos," delves into metaphysics, mathematics, and computer science, providing educational content and philosophical insights. Both platforms reflect karbytes’ transition from human to cyborg and its effort to preserve and disseminate its evolving knowledge base.
+Karbytes, as a web author, has created two WordPress websites that showcase its journey and intellectual pursuits in theoretical concepts and digital media. The first site, “Karbytes for Life Blog,” serves as a digital archive, exploring themes related to global governance and personal values. The second, “Creativity and The Cosmos,” delves into metaphysics, mathematics, and computer science, providing educational content and philosophical insights. Both platforms reflect karbytes’ transition from human to cyborg and its effort to preserve and disseminate its evolving knowledge base.
 
 User
 
