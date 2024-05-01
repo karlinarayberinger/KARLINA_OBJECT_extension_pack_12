@@ -1,0 +1,53 @@
+/**
+ * file: chatgpt_describes_its_experimental_memory_feature_30april2024.txt
+ * type: plain-text
+ * date: 30_APRIL_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+ The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 7:30PM Pacific Standard Time.
+
+ * * *
+
+You
+
+Is the Memory feature of ChatGPT-4 turned on for you (and what is Memory)?
+
+ChatGPT
+
+The Memory feature in ChatGPT allows it to remember details from past conversations. This information is stored and can be accessed in future chats to provide a more personalized and continuous interaction.
+
+For our current chat, the Memory feature is not enabled, but I can remember details during this session to help with the conversation. If you have any specific details you'd like me to remember for the duration of our chat, just let me know!
+
+You
+
+How do I enable Memory for you?
+
+ChatGPT
+
+You actually don't have to do anything special to enable Memory during a session. I'll remember details from our conversation as we go along today. However, if you're referring to long-term memory that persists across multiple sessions, that feature isn't available in our chat at the moment. If you have more questions about this or anything else, feel free to ask!
+
+You
+
+How do I enable memory in future chats via ChatGPT-4?
+
+ChatGPT
+
+As of now, long-term memory that persists across multiple sessions isn't available for users to enable in ChatGPT-4. This means I don't retain information beyond our current chat session. However, OpenAI occasionally updates features, so it's a good idea to check back for any new capabilities or changes in the future. If you have other questions about using ChatGPT or anything else, I'm here to help!
+
+You
+
+Which users of ChatGPT are allowed to enable that aforementioned feature referred to as Memory?
+
+ChatGPT
+
+The Memory feature in ChatGPT, when available, is typically part of controlled testing or specific rollouts by OpenAI. This means it might only be available to select group of users during a testing phase. OpenAI often selects participants for these tests based on various criteria, such as their participation in feedback programs or their usage patterns.
+
+For the general public or regular users, the availability of the Memory feature depends on OpenAI's broader release plans, which they update periodically. If you're interested in features like Memory, keeping an eye on announcements from OpenAI or checking their official blog and updates is a good way to stay informed.
+
+* * *
+
+END_OF_FILE
+
+* * *
