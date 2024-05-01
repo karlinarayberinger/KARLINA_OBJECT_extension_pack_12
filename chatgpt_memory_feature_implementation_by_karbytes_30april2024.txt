@@ -215,9 +215,11 @@ Got it! If you have any more questions or need further information, just let me 
 
 * * *
 
-The following Uniform Resource Locator points to a plain-text file which karbytes made approximately 30 minutes before creating this plain-text file:
+karbytes continued to observe ChatGPT failing to implement the "rules" which karbytes told ChatGPT to rememer across multiple chat sessions. 
 
-https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_describes_its_experimental_memory_feature_30april2024.txt
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_0.png
 
 * * *
 
