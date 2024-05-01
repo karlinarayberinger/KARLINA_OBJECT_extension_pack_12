@@ -223,6 +223,106 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 * * *
 
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 9:20PM Pacific Standard Time.
+
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+
+* * *
+
+User
+
+Remember that all the letters in the name karbytes are supposed to be set to lowercase.
+
+ChatGPT
+
+[Memory updated]
+
+Got it, I'll remember to keep all the letters in "karbytes" lowercase.
+
+User
+
+Remember that the website at the following Uniform Resource Locator is supposed to be referred to either using that URL or else the string inside of the quotations (quotations excluded): https://karlinaobject.wordpress.com/
+
+ChatGPT
+
+[Memory updated]
+
+Got it! I'll refer to the website as "karlinaobject.wordpress.com" or using the full URL as specified.
+
+User
+
+Unremember what I just told you to remember.
+
+ChatGPT
+
+[Memory updated]
+
+I've removed that from my memory. If there's anything else you need, just let me know!
+
+User
+
+Remember that the website at the following Uniform Resource Locator is supposed to be referred to either using that URL or else the string inside of the quotations (quotations excluded) "Karlina Object dot WordPress dot Com": https://karlinaobject.wordpress.com/
+
+ChatGPT
+
+[Memory updated]
+
+Got it! I'll refer to the website as "Karlina Object dot WordPress dot Com" or using the full URL as specified.
+
+User
+
+Unremember what I just told you to remember.
+
+ChatGPT
+
+[Memory updated]
+
+I've removed that from my memory. Let me know if there's anything else you need!
+
+User
+
+Remember to refer to the website at the following Uniform Resource Locator as Karlina Object dot WordPress dot Com:  https://karlinaobject.wordpress.com/
+
+ChatGPT
+
+[Memory updated]
+
+Got it! I'll refer to the website as "Karlina Object dot WordPress dot Com".
+
+User
+
+Unremember what I just told you to remember. 
+
+ChatGPT
+
+[Memory updated]
+
+Done! If there's anything else you need, just let me know.
+
+User
+
+Remember to refer to the website at the following Uniform Resource Locator as Karlina Object dot WordPress dot Com (and to not frame that website name inside of quotation marks):  https://karlinaobject.wordpress.com/
+
+ChatGPT
+
+[Memory updated]
+
+Got it! I'll refer to the website as Karlina Object dot WordPress dot Com, without using quotation marks.
+
+User
+
+Remember to refer to the website at the following Uniform Resource Locator as Karbytes For Life Blog dot WordPress dot Com (and to not frame that website name inside of quotation marks):  https://karbytesforlifeblog.wordpress.com/
+
+ChatGPT
+
+[Memory updated]
+
+Got it! I'll refer to the website as Karbytes For Life Blog dot WordPress dot Com, without using quotation marks. If there's anything else you'd like to adjust or add, just let me know!
+
+* * *
+
 END_OF_FILE
 
 * * *
