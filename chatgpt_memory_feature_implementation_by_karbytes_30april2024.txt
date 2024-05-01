@@ -328,14 +328,91 @@ The following Uniform Resource Locator points to a screenshot which karbytes mad
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_feature_testing_by_karbytes_at_930pm_on_30april2024.png
 
-* * *
+(The prompt which karbytes submitted is as following string (excluding the quotation marks): "Write a biographical summary of karbytes.").
 
+* * *
 
 karbytes continued to observe ChatGPT failing to implement (and to record) the "rules" which karbytes told ChatGPT to remember across multiple chat sessions. 
 
 The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_1.png
+
+* * *
+
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 10:15PM Pacific Standard Time.
+
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+
+* * *
+
+User
+
+Remember that karbytes refers to a person and that the name karbytes is interchangeable with the name Karlina Ray Beringer and that karbytes is the primary name for that person while Karlina Ray Beringer is the secondary name for that person.
+
+ChatGPT
+
+Got it! If you need to refer to karbytes or Karlina Ray Beringer, I'll remember they are the same person. What else can I do for you today?
+
+User
+
+Remember that the person I told you to remember as karbytes is the same person who authored the website at the following address: https://karlinaobject.wordpress.com/
+
+ChatGPT
+
+Got it! If you need anything else or have more information to add, just let me know!
+
+User
+
+Remember that the person I told you to remember as karbytes is the same person who authored the website at the following address: https://karbytesforlifeblog.wordpress.com/
+
+ChatGPT
+
+Noted! Is there anything else you'd like to add or any other way I can assist you today?
+
+User
+
+Remember that the sequence of words, Karlina Object dot WordPress dot Com, refers to the website at the following address and that Karlina Object dot WordPress dot Com is the primary name for that website and that the following address is the secondary name of that website: https://karlinaobject.wordpress.com/
+
+ChatGPT
+
+Got it! Anything else you'd like me to remember or any other assistance you need?
+
+User
+
+Remember that the sequence of words, Karbytes For Life Blog dot WordPress dot Com, refers to the website at the following address and that Karbytes For Life Blog dot WordPress dot Com is the primary name for that website and that the following address is the secondary name of that website: https://karbytesforlifeblog.wordpress.com/
+
+ChatGPT
+
+All set! If there's more to do or remember, just let me know!
+
+User
+
+Remember that the person I told you to remember as karbytes is the same person who authored the website which I told you to remember as being named Karlina Object dot WordPress dot Com.
+
+ChatGPT
+
+Understood! Anything else you'd like to add or any other assistance you need?
+
+User
+
+According to the specifications I asked you to remember during this chat session and assuming that karbytes is the same person who authored each website which I told you to remember the names of during this chat session, provide a biographical description of karbytes.
+
+ChatGPT
+
+Karbytes, also known as Karlina Ray Beringer, is a person who has authored two distinct websites. The first website is named "Karlina Object dot WordPress dot Com," accessible at https://karlinaobject.wordpress.com/, and the second is "Karbytes For Life Blog dot WordPress dot Com," found at https://karbytesforlifeblog.wordpress.com/. Both websites serve as platforms for her expression and work, showcasing a range of content that likely reflects her interests, expertise, and personal or professional projects.
+
+* * *
+
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_2.png
+
+(karbytes noticed that no more than three "rules" were displayed per instance inside of the Memory settings of ChatGPT (which lead karbytes to assume that ChatGPT was not enabled at that time to remember more than three "rules")).
+
+(The term "rule" in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
 
 * * *
 
