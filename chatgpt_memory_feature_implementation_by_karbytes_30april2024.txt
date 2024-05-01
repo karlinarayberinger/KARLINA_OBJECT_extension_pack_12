@@ -29,6 +29,7 @@ Who is karbytes?
 ChatGPT
 
 Karbytes is the author behind the websites named Karlina Object WordPress.com and Karbytes For Life Blog WordPress.com. It appears to create content related to personal projects or insights. If you have a specific aspect of its work or interests you'd like to know more about, feel free to ask!
+
 You
 
 Describe each of those two websites.
@@ -215,7 +216,7 @@ Got it! If you have any more questions or need further information, just let me 
 
 * * *
 
-karbytes continued to observe ChatGPT failing to implement the "rules" which karbytes told ChatGPT to rememer across multiple chat sessions. 
+karbytes continued to observe ChatGPT failing to implement the "rules" which karbytes told ChatGPT to remember across multiple chat sessions. 
 
 The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
 
@@ -326,6 +327,15 @@ Got it! I'll refer to the website as Karbytes For Life Blog dot WordPress dot Co
 The following Uniform Resource Locator points to a screenshot which karbytes made depicting two ChatGPT-generated answers to one prompt which karbytes submitted on 30_APRIL_2024 at approximately 9:30PM Pacific Standard Time.
 
 https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_feature_testing_by_karbytes_at_930pm_on_30april2024.png
+
+* * *
+
+
+karbytes continued to observe ChatGPT failing to implement (and to record) the "rules" which karbytes told ChatGPT to remember across multiple chat sessions. 
+
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 9:10PM Pacific Standard Time.
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_1.png
 
 * * *
 
