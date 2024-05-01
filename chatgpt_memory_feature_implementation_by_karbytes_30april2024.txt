@@ -482,6 +482,64 @@ https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pa
 
 * * *
 
+The following text was copy-pasted from a conversation which karbytes had with ChatGPT-4 on 30_APRIL_2024 at approximately 10:50PM Pacific Standard Time.
+
+(The aforementioned conversation (whose plain-text content is displayed below this paragraph) depicts karbytes' Nth implementation of the Memory feature in ChatGPT-4 (where N is some integer larger than 3)).
+
+(Note that, when karbytes copy-pasted the ChatGPT chat sessions, the word "You" which was displayed on the ChatGPT web page was replaced with the word "User" in the copy-pasted text).
+
+* * *
+
+User
+
+Describe the Memory feature of ChatGPT-4 and what its limitations are (especially in terms of data storage capacity).
+
+ChatGPT
+
+The Memory feature in ChatGPT-4 allows the model to remember information across conversations with users. This means that ChatGPT can retain details from previous interactions, which can help in creating a more personalized and continuous conversational experience. Here are some key aspects and limitations of this feature:
+
+Key Aspects
+
+1. Continuity: Memory helps ChatGPT maintain a thread of conversation over multiple sessions. For example, it can recall your preferences or past topics of discussion without needing to be reminded each time.
+
+2. Personalization: The model can use remembered information to tailor responses more closely to your interests or needs.
+   
+3. Context Management: It enables the AI to keep track of the evolving context and details that might be relevant in future interactions.
+
+Limitations
+
+1. Data Storage Capacity: The Memory feature has a limited capacity. It is not designed to store large amounts of data or detailed information indefinitely. The focus is on relevant snippets that can enhance interactions rather than extensive data repositories.
+    
+2. Privacy and Security: To safeguard privacy, the information stored in memory is managed carefully, with controls in place to ensure data is handled appropriately. Users can typically view, edit, or delete information that the AI remembers about them.
+
+3. Accuracy Over Time: Information that was relevant in one context may become outdated or less relevant in another. The AI needs to manage the relevance of stored data over time to avoid inaccuracies.
+    
+4. Selective Memory: The AI doesn’t remember everything. It selectively stores information that seems pertinent to enhancing the conversational experience. This selectivity might mean it overlooks or forgets details that a user might consider important.
+    
+5.Reset Capability: Users generally have the ability to reset or clear the memory, which can help address issues of outdated or unwanted information but also means losing the continuity built up over time.
+
+These limitations reflect a balance between creating a helpful, personalized interaction and maintaining user privacy and data integrity.
+
+User
+
+Let the pronouns of karbytes be genderless it/its and for the name karbytes to be preferred over any other aliases which refer to the individual information processing agent named karbytes.
+
+ChatGPT
+
+[Memory updated]
+
+Got it! I'll use "it/its" for karbytes and refer to it by the name "karbytes." If you have any more preferences or updates, just let me know!
+
+* * *
+
+The following Uniform Resource Locator points to a screenshot which karbytes made depicting those "rules" as they were remembered by ChatGPT on 30_APRIL_2024 at approximately 10:55PM Pacific Standard Time.
+
+https://raw.githubusercontent.com/karlinarayberinger/KARLINA_OBJECT_extension_pack_12/main/chatgpt_memory_implemented_by_karbytes_settings_30april2024_part_4.png
+
+(The term "rule" in the context of this plain-text note section refers to any communicable piece of information which ChatGPT can remember in the format of a sequence of plain-text characters).
+
+* * *
+
 END_OF_FILE
 
 * * *
